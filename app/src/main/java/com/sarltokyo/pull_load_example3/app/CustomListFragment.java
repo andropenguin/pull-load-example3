@@ -1,16 +1,16 @@
 package com.sarltokyo.pull_load_example3.app;
 
 import android.os.Bundle;
-        import android.support.v4.app.ListFragment;
-        import android.support.v4.app.LoaderManager;
-        import android.support.v4.content.Loader;
-        import android.util.Log;
-        import android.view.LayoutInflater;
-        import android.view.View;
-        import android.view.ViewGroup;
-        import com.costum.android.widget.LoadMoreListView;
+import android.support.v4.app.ListFragment;
+import android.support.v4.app.LoaderManager;
+import android.support.v4.content.Loader;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import com.costum.android.widget.LoadMoreListView;
 
-        import java.util.List;
+import java.util.List;
 
 /**
  * Created by osabe on 15/06/30.
