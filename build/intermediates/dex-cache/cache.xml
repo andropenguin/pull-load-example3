@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1-cbe1b69433b15c64f6258fe21ce64acd6f963901.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/classes-6593e9c59e265850692c3743f81c2364972e969e.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/classes-6dd84ae757ad6a688ce8c3feb1f00bf55869b412.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/classes-aab47140b72a6957402a47edeb1370d8d90ee525.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/haha-1.3-b8b79cbd7a0da280ee0dc569a54a783faa2120d4.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1-d9a26bd5e4e70cb5a79f7325f500d3f7434e02c7.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/classes-a98620f47eb471ed2f934f499566d8acc7f22972.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a248d7d322cf38fc3b0a6bfed1704fd9eb02eda3.jar" />
+    </item>
+    <item
+        jar="/home/osabe/src/android-sdk/android-sdk_r24.0.2-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-cb488908e96b7540884a93b84e31512abefe8131.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/exploded-aar/pull-load-example3/pulltorefresh-and-loadmore/unspecified/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="200179e8eb8defc6e70e08a95d3d4aa6ea2d85d6">
+        <dex dex="/home/osabe/work/IDEA-workspace/pull-load-example3/app/build/intermediates/pre-dexed/debug/classes-78052f545081d6aee046ad430a29513059605ea2.jar" />
+    </item>
+
+</items>
